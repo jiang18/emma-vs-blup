@@ -1,5 +1,5 @@
 # emma_vs_blup
-A quick comparison in P values between EMMA versus BLUP through simulation
+A quick comparison in P values between EMMA and BLUP through simulation
 
 In routine single-marker mixed model association tests, we generally treat marker effects as fixed and use Wald tests or LRTs to compute the P values, either with an exact method (like EMMA, GEMMA, etc.) or in an approximate way (like EMMAX).
 
